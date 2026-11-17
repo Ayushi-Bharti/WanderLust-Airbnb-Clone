@@ -1,8 +1,8 @@
-# 🏡 WanderLust – Airbnb Clone
+# WanderLust – Airbnb Clone
 
 WanderLust is a full-stack property rental web application inspired by Airbnb. It allows users to explore property listings, view property details, and manage their own listings.
 
-## 🚀 Features
+## Features
 
 - **User Authentication:** User signup and login functionality.
 - **Property Listings:** Create, view, edit, and delete property listings.
@@ -12,7 +12,7 @@ WanderLust is a full-stack property rental web application inspired by Airbnb. I
 - **Map Integration:** Display property locations using Mapbox.
 - **Image Uploads:** Property image management using Cloudinary.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Frontend:**
 - HTML
@@ -35,7 +35,7 @@ WanderLust is a full-stack property rental web application inspired by Airbnb. I
 - Git & GitHub
 - Postman
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 WanderLust/
@@ -55,7 +55,7 @@ WanderLust/
 └── .gitignore
 ```
 
-## ⚙️ Installation and Setup
+## Installation and Setup
 
 1. Clone the repository:
 
@@ -91,17 +91,17 @@ http://localhost:8080
 
 *Use the port configured in your app.js if it is different.*
 
-## 🎯 Project Goal
+## Project Goal
 
 The goal of this project was to gain practical experience in full-stack web development, backend development, database integration, authentication, and building real-world web applications.
 
-## 👩‍💻 Developer
+## Developer
 
 **Ayushi Bharti**
 
 GitHub: [Ayushi-Bharti](https://github.com/Ayushi-Bharti)
 
-## 📌 Future Improvements
+## Future Improvements
 
 - AI/ML-based rental price prediction.
 - Advanced search and filtering.
